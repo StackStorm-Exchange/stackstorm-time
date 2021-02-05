@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.0.0
+
+* Drop Python 2.7 support
+
 # 0.2.2
 
 - Updated date parser to use pypi managed package for `dateparser` (dateparser>=0.7.6)
